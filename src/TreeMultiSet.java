@@ -12,4 +12,5 @@ public class TreeMultiSet extends MultiSet {
     }
     // TODO write the rest of the implementation for this class so that it uses its private Tree
     //      object to provide the MultiSet functionality.
+    int change = 1;
 }
